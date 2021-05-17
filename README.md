@@ -9,7 +9,11 @@ Not sure what this will do just yet... but it'll do something :)
 
 ## Installation
 
-How to install...
+Local installation to any node project:
+
+```
+npm install @shah-a/node-module-challenge --save
+```
 
 ## Usage
 
