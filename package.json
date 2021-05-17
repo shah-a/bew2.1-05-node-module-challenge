@@ -1,6 +1,6 @@
 {
   "name": "@shah-a/atla-quotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple node module that returns random quotes from various `Avatar: The Last Airbender` scenes.",
   "main": "index.js",
   "scripts": {
