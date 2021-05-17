@@ -1,7 +1,7 @@
 {
   "name": "@shah-a/atla-quotes",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple node module that returns random quotes from various `Avatar: The Last Airbender` scenes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/shah-a/bew2.1-05-node-module-challenge.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Avatar",
+    "Quotes"
+  ],
+  "author": "Ali Shah",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shah-a/bew2.1-05-node-module-challenge/issues"
