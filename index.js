@@ -34,7 +34,7 @@ const cabbage = [
 ]
 
 const getQuote = () => {
-  console.log(cabbage[0])
+  return cabbage[0];
 }
 
 module.exports = {
